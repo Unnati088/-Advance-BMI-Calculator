@@ -48,4 +48,4 @@ All user BMI records are saved in `data/bmi_history.json`. Each record contains:
 
 ---
 
-✅ Made with ❤️ by [Your Name]
+✅ Made with ❤️ by Unnati
